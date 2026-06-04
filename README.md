@@ -169,7 +169,7 @@ We will release the model and training set as soon as possible.
 
 ---
 
-## 📄 License
+## License
 
 Our dataset is under the CC-BY-NC-SA-4.0 license.
 

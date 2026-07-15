@@ -2,7 +2,7 @@
 
 [![Project Page](https://img.shields.io/badge/Project%20Page-AVSCap-1B2838?logo=githubpages&logoColor=white)](https://nju-link.github.io/AVSCap/)
 &nbsp;
-[![Paper](https://img.shields.io/badge/arXiv-2606.xxxxx-b31b1b)](https://arxiv.org/abs/2606.xxxxx)
+[![Paper](https://img.shields.io/badge/arXiv-2607.12820-b31b1b)](https://arxiv.org/abs/2607.12820)
 &nbsp;
 [![Benchmark](https://img.shields.io/badge/Hugging%20Face-AVSCapBench-yellow)](https://huggingface.co/datasets/NJU-LINK/AVSCapBench)
 

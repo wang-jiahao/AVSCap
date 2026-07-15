@@ -178,10 +178,10 @@ Our dataset is under the CC-BY-NC-SA-4.0 license.
 ## Citation
 
 ```bibtex
-@article{avscap2026,
-  title={AVSCap: Audio-Visual Synergistic Captioning with Fine-Grained Event Evaluation},
-  author={AVSCap Team},
-  journal={arXiv preprint},
-  year={2026}
+@article{wang2026avscap,
+  title   = {AVSCap: Orchestrating Audio-Visual Synergy for Omni-modal Video Captioning},
+  author  = {Wang, Yanghai and Wang, Jiahao and Tang, Jiafu and Zhang, Yuanxing and Cao, Zhe and Bian, Hanyan and Zhang, Zijie and Luo, Weiliang and Pan, Zhiyu and Dong, Zixuan and Liu, Jiaheng and Zhang, Zhaoxiang},
+  journal = {arXiv preprint arXiv:2607.12820},
+  year    = {2026}
 }
 ```

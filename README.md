@@ -6,6 +6,10 @@
 &nbsp;
 [![Benchmark](https://img.shields.io/badge/Hugging%20Face-AVSCapBench-yellow)](https://huggingface.co/datasets/NJU-LINK/AVSCapBench)
 
+## News
+
+- **[2026.08]** Our AVSCap paper has been accepted to the EMNLP 2026 Main Conference! 🎉
+
 ## Overview
 
 **AVSCap** targets omni-modal video captioning, where a caption should not only describe visual content and transcribe speech, but also capture music, sound effects, and their temporal or causal relations with visual events.
